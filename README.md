@@ -4,6 +4,7 @@
 
 ### 👨: &nbsp;About Me :
 
+I am Daniel, a seasoned Data professional with a fresh Master's Degree in Artificial Intelligence.
 <!--
 **dannysam2k5/dannysam2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
