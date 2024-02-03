@@ -12,8 +12,11 @@ I am Daniel, a seasoned Data professional with a fresh Master's Degree in Artifi
 ---
 
 ### 🧰 &nbsp; Tools:
+<p>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
-
+</p>
 <!--
 **dannysam2k5/dannysam2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
