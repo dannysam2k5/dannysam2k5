@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.imgur.com/Iu8MAYU.gif" width="300" height="150"  /></p>
 
-### 👨: &nbsp;About Me :
+### 👨‍💻: &nbsp;About Me :
 
 I am Daniel, a seasoned Data professional with a fresh Master's Degree in Artificial Intelligence.
 - 🔭 Currently, I'm rocking the data world as a Data Analyst at Bibimoney.
@@ -10,6 +10,9 @@ I am Daniel, a seasoned Data professional with a fresh Master's Degree in Artifi
 - ⚡ I always leverage my DBA roots to ensure robust data architecture and smooth information flow.
 
 ---
+
+### 🧰 &nbsp; Tools:
+
 
 <!--
 **dannysam2k5/dannysam2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
