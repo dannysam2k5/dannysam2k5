@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://i.imgur.com/Iu8MAYU.gif" width="300" height="150"  /></p>
 
+---
 ### 👨‍💻: &nbsp;About Me :
 
 I am Daniel 👨‍🦱, a seasoned Data professional with a fresh Master's Degree in Artificial Intelligence.
