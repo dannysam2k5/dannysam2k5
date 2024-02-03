@@ -30,7 +30,7 @@ I am Daniel 👨‍🦱, a seasoned Data professional with a fresh Master's Degr
 </p>
 
 ---
-📫 Let's Connect!
+### 📫: &nbsp; Let's Connect!
 - Email: <a href="mailto:dannysam2k5@gmail.com"><img src="https://icons.iconarchive.com/icons/guillendesign/variations-3/256/Mail-Gmail-icon.png" alt="Email Me" width="30" height="30"></a> 
 - LinkedIn: &nbsp; [![Linkedin](https://img.shields.io/badge/-dannysam2k5-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dannysam2k5)
 - Website: <a href="https://dannysam2k5.com/home"><img src="https://icons.iconarchive.com/icons/justicon/free-simple-line/256/Seo-Internet-Browser-Website-icon.png" alt="Website" width="30" height="30"></a>
