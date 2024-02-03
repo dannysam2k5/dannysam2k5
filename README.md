@@ -9,6 +9,8 @@ I am Daniel, a seasoned Data professional with a fresh Master's Degree in Artifi
 - 🌱 I’m currently applying cutting-edge algorithms to solve business challenges and enhance the decision-making process.
 - ⚡ I always leverage my DBA roots to ensure robust data architecture and smooth information flow.
 
+---
+
 <!--
 **dannysam2k5/dannysam2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
