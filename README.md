@@ -31,8 +31,8 @@ I am Daniel 👨‍🦱, a seasoned Data professional with a fresh Master's Degr
 
 ---
 📫 Let's Connect!
-- LinkedIn: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dannysam2k5-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dannysam2k5)
-- Email: 
+- LinkedIn: &nbsp; [![Linkedin](https://img.shields.io/badge/-dannysam2k5-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dannysam2k5)
+- Email: <a href="mailto:dannysam2k5@gmail.com"><img src="https://icons.iconarchive.com/icons/guillendesign/variations-3/256/Mail-Gmail-icon.png" alt="Email Me" width="20" height="20"></a> 
 ---
 <!--
 **dannysam2k5/dannysam2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
