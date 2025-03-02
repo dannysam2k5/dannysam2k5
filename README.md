@@ -5,9 +5,9 @@
 ---
 ### 👨‍💻: &nbsp;About Me :
 
-I am Daniel 👨‍🦱, a seasoned Data professional with a fresh Master's Degree in Artificial Intelligence.
+I am Daniel 👨‍🦱, a data-driven problem solver passionate about turning raw data into actionable insights. Experienced in analytics, visualisation, and AI-powered solutions to drive decision-making.
 - 🔭 At the moment, I'm rocking the data world as a Data Analyst at Bibimoney.
-- 🌱 I’m currently applying cutting-edge algorithms to solve business challenges and enhance the decision-making process.
+- 🌱 I’m applying cutting-edge algorithms to solve business challenges and enhance decision-making.
 - ⚡ I always leverage my DBA roots to ensure robust data architecture and smooth information flow.
 
 ---
